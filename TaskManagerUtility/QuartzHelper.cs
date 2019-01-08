@@ -103,7 +103,7 @@ namespace TaskManagerUtility
                     //properties["quartz.dataSource.QuartzDB.provider"] = "SqlServer-20";
 
                     //// 连接字符串
-                    //properties["quartz.dataSource.QuartzDB.connectionString"] = "server=192.168.2.88;database=QuartzDB;uid=sa;pwd=winner@001";
+                    //properties["quartz.dataSource.QuartzDB.connectionString"] = "server=192.168.0.104;database=QuartzDB;uid=sa;pwd=111111";
 
                     //// 事物类型JobStoreTX自动管理 JobStoreCMT应用程序管理
                     //properties["quartz.jobStore.type"] = "Quartz.Impl.AdoJobStore.JobStoreTX, Quartz";
